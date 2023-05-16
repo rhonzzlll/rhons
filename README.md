@@ -1,2 +1,2 @@
 # rhons
-student by force
+daytime student
